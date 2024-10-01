@@ -1,8 +1,8 @@
 import adonysImage from '../assets/me.png';
 
 const user = {
-  name: 'Tegar Sabila',
-  title: 'Junior React Developer',
+  name: 'wishful',
+  title: 'Developer And Creator',
   img: {
     src: adonysImage,
     alt: 'Adonys Santos photo',
